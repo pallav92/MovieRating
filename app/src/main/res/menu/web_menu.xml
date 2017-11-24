@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/prev"
+        android:icon="@drawable/ic_chevron_left_black_24dp"
+        android:title="@string/prev"
+        app:showAsAction="always" />
+    <item android:id="@+id/next"
+        android:icon="@drawable/ic_chevron_right_black_24dp"
+        android:title="@string/next"
+        app:showAsAction="always"/>
+</menu>

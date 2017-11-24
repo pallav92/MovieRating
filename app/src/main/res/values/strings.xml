@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MovieRating</string>
+    <string name="no_internet">No internet connection</string>
+    <string name="no_more_results">No more movies</string>
+    <string name="prev">Previous</string>
+    <string name="next">Next</string>
+    <string name="search">Search Movie</string>
+    <string name="search_hint">Search movies</string>
+</resources>

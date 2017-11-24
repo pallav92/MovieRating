@@ -1,0 +1,74 @@
+{
+  "movies": [
+    {
+      "name": "The Shawshank Redemption",
+      "yearOfRelease": "1994",
+      "image": "https://images-na.ssl-images-amazon.com/images/M/MV5BODU4MjU4NjIwNl5BMl5BanBnXkFtZTgwMDU2MjEyMDE@._V1_QL50_SY1000_CR0,0,672,1000_AL_.jpg",
+      "rating": "9.2",
+      "imdbURL": "http://www.imdb.com/title/tt0111161/"
+    },
+    {
+      "name": "The Godfather",
+      "yearOfRelease": "1972",
+      "image": "https://images-na.ssl-images-amazon.com/images/M/MV5BZTRmNjQ1ZDYtNDgzMy00OGE0LWE4N2YtNTkzNWQ5ZDhlNGJmL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_QL50_SY1000_CR0,0,704,1000_AL_.jpg",
+      "rating": "9.2",
+      "imdbURL": "http://www.imdb.com/title/tt0068646/"
+    },
+    {
+      "name": "The Godfather Part II",
+      "yearOfRelease": "1974",
+      "image": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjZiNzIxNTQtNDc5Zi00YWY1LThkMTctMDgzYjY4YjI1YmQyL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_QL50_SY1000_CR0,0,702,1000_AL_.jpg",
+      "rating": "9.0",
+      "imdbURL": "http://www.imdb.com/title/tt0071562/"
+    },
+    {
+      "name": "The Dark Knight",
+      "yearOfRelease": "2008",
+      "image": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTMxNTMwODM0NF5BMl5BanBnXkFtZTcwODAyMTk2Mw@@._V1_QL50_SY1000_CR0,0,675,1000_AL_.jpg",
+      "rating": "9.0",
+      "imdbURL": "http://www.imdb.com/title/tt0468569/"
+    },
+    {
+      "name": "12 Angry Men",
+      "yearOfRelease": "1957",
+      "image": "https://images-na.ssl-images-amazon.com/images/M/MV5BMWU4N2FjNzYtNTVkNC00NzQ0LTg0MjAtYTJlMjFhNGUxZDFmXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_QL50_SY1000_CR0,0,649,1000_AL_.jpg",
+      "rating": "8.9",
+      "imdbURL": "http://www.imdb.com/title/tt0050083/"
+    },
+    {
+      "name": "Schindler's list",
+      "yearOfRelease": "1993",
+      "image": "https://images-na.ssl-images-amazon.com/images/M/MV5BNDE4OTMxMTctNmRhYy00NWE2LTg3YzItYTk3M2UwOTU5Njg4XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_QL50_SY1000_CR0,0,666,1000_AL_.jpg",
+      "rating": "8.9",
+      "imdbURL": "http://www.imdb.com/title/tt0108052/"
+    },
+    {
+      "name": "Pulp Fiction",
+      "yearOfRelease": "1994",
+      "image": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTkxMTA5OTAzMl5BMl5BanBnXkFtZTgwNjA5MDc3NjE@._V1_QL50_SY1000_CR0,0,673,1000_AL_.jpg",
+      "rating": "8.9",
+      "imdbURL": "http://www.imdb.com/title/tt0110912/"
+    },
+    {
+      "name": "The Lord of the Rings: The Return of the King",
+      "yearOfRelease": "2003",
+      "image": "https://images-na.ssl-images-amazon.com/images/M/MV5BYWY1ZWQ5YjMtMDE0MS00NWIzLWE1M2YtODYzYTk2OTNlYWZmXkEyXkFqcGdeQXVyNDUyOTg3Njg@._V1_QL50_SY1000_SX668_AL_.jpg",
+      "rating": "9.2",
+      "imdbURL": "http://www.imdb.com/title/tt0167260/"
+    },
+    {
+      "name": "The Good, the Bad and the ugly",
+      "yearOfRelease": "1966",
+      "image": "https://images-na.ssl-images-amazon.com/images/M/MV5BOTQ5NDI3MTI4MF5BMl5BanBnXkFtZTgwNDQ4ODE5MDE@._V1_QL50_SY1000_CR0,0,656,1000_AL_.jpg",
+      "rating": "8.8",
+      "imdbURL": "http://www.imdb.com/title/tt0060196/"
+    },
+    {
+      "name": "Fight Club",
+      "yearOfRelease": "1999",
+      "image": "https://images-na.ssl-images-amazon.com/images/M/MV5BZGY5Y2RjMmItNDg5Yy00NjUwLThjMTEtNDc2OGUzNTBiYmM1XkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_QL50_.jpg",
+      "rating": "8.8",
+      "imdbURL": "http://www.imdb.com/title/tt0137523/"
+    }
+  ]
+}
